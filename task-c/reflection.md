@@ -21,7 +21,7 @@ Consider: What patterns did you observe in the SMAP data? How might those patter
 
 **Your response (75–100 words):**
 
-> _Replace this text with your answer._
+The hands on data exploration helped me understand the challenges that were described in the anomaly detection document. The patterns I observed in the SMAP data include sudden spikes and drifting. This makes the anomaly detection hard to do. The new normal can easily change due to equiptment changes and enviroment changes. For the amount of data given, there was not many anomalies though. Seeing this definetly helped me understand better what is going on.
 
 ---
 
@@ -33,8 +33,7 @@ Be honest. There are no wrong answers — this helps us plan the onboarding sche
 
 **Your response (75–100 words):**
 
-> _Replace this text with your answer._
-
+Well, I am currently in a class teaching Python and R code, so I am still getting the hang of both, but I am at the stage where I can figure it out with a little bit of reaserch. I have lots of coding exerience in C++ and Java that can help me too. The statistic concepts and ML bachground are new to me. Especially the ML background. I feel like I can still overcome these challenges though the way I overcome any challenge, which is through lots and lots of research. The more hands on work I accomplish, the more I will understand everything as well.
 ---
 
 *Submission: commit this file to your fork and include it in the GitHub repo URL you submit on Canvas.*
